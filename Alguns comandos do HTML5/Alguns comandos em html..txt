@@ -1,0 +1,70 @@
+binary digit  - BIT 
+UTF-8
+
+MB ≠ Mb
+MB ------> MEGABYTES  (Armazenamento/ Memória)
+Mb ------> MEGABITS   (Transmissão / Velocidade na internet)
+Sinais de ondas quadradas = Digitos Binários = '0' e '1'.
+Modem = Responsavél pela modulaçao de ondas quadradas para senoidal e demodulação das ondas senoidais para onda quadrada.
+DNS -------> Sistema de Nome de Domínio 
+
+www(sub-domínio).github(domínio).com(TLD)/gustavoguanabara(caminho)    = URL (local unico)
+
+
+
+HTMl ---------> Hipertext Markup Language (Linguagem de marcaçao de hipertexto) 
+CSS ----------> Cascading Style Sheets (Folhas de stilo em cascata)
+HTML foca em contéudo.
+CSS --- estilo
+
+
+
+
+<>  Tag
+<h1> -----> Abertura de tag
+<h1> Titulo001<h1>
+
+
+<p> Parágrafo  
+
+
+<img src= "foto.png" alt="Exemplo de foto">
+
+
+ 
+*seletor
+
+h1 {
+     font-family:Arial;  (declaração)----> Propriedade
+     font-size: 20pt;
+     color: blue;    
+   }
+
+
+
+ESTRUTURA BÁSICA DE DOCUMENTO HTML
+
+<!DOCTYPE html>	
+
+
+<head>-----> Cabeça
+<body>-----> Corpo
+<meta charser="UTF-8">  --------> Acentuaçao de palavras.
+<meta name="viewport"
+ content="width=device-width,
+ initial-scale=1.0'>
+<title>Document</title>
+
+
+hr -----> coloca uma linha  
+br------> acaba a linha
+<!-- Comentário-->
+&#x (+codigo do emojipedia) ------>  emoji
+
+
+
+unsplash e pexels  -----------> sites de imagens com licença
+
+
+png-----> substituie o gif  / fundo transparentre
+
