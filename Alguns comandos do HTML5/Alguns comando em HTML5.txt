@@ -68,3 +68,16 @@ unsplash e pexels  -----------> sites de imagens com licença
 
 png-----> substituie o gif  / fundo transparentre
 
+<b>  ------> Negrito
+<i> --------> Itálico
+<mark>-------> Destaque
+<mark style > mudar a cor    ( style vai dentro dos indicadores<>)
+<u> sublinhar
+<sup>----------> texto sobrescrito (exponenciação)
+<sub>-----------> texto subscrito  (Fórmula da água h2o)
+<small>---------> Diminui um pouco a área selecionada
+<code>--------------> deixar o espaçamento das letras iguais
+<q>-----------> Citação
+<ol> ----------> Listas ordenadas (<li> acordar<li> /n <li>tomar café <li> /n <li> Ecovar os dentes. <li>)
+<dd> ------------> Estrutura de dicionário.
+target="_blank" ---------> abrir em outra aba o link
